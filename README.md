@@ -1,0 +1,2 @@
+# MyPyMini
+Mini-Py projects
